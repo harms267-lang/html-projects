@@ -1,0 +1,13 @@
+header{
+  background-color:maroon;
+  color:white;}
+figure{
+  border: 1px solid lightgrey;
+  padding: 1em;
+  margin: 2em;}
+strong{
+  background-color: lightgreen;
+  color: darkgreen;}
+em{
+  background-color: lemonchiffon;
+  color: darkorange;}
